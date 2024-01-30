@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbbe5f282be32d84a8f4dd7e84636b0e, type: 3}
+  m_Name: VehicleData
+  m_EditorClassIdentifier: 
+  outerHood_DamagedPercent: 0
+  roof_DamagedPercent: 0
+  fender_DamagedPercent: 0
+  rightDoor_DamagedPercent: 0
+  leftDoor_DamagedPercent: 0
+  bodySide_DamagedPercent: 0
+  trunkLid_DamagedPercent: 0
+  outerHood_PaintPercent: 0
+  roof_PaintPercent: 0
+  fender_PaintPercent: 0
+  rightDoor_PaintPercent: 0
+  leftDoor_PaintPercent: 0
+  bodySide_PaintPercent: 0
+  trunkLid_PaintPercent: 0
